@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Raiadikrisna_1202150043_studycase4</string>
+    <string-array name="namaMhs">
+        <item>rai</item>
+        <item>rifqi</item>
+        <item>fadel</item>
+        <item>pangestu</item>
+        <item>ucok</item>
+        <item>baba</item>
+        <item>dina</item>
+        <item>dini</item>
+        <item>dono</item>
+        <item>dana</item>
+        <item>budi</item>
+        <item>andi</item>
+        <item>anda</item>
+        <item>siapa</item>
+    </string-array>
+</resources>
